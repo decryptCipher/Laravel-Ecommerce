@@ -13,11 +13,6 @@
 <!-- markdownlint-disable -->
 
 <p align="center"> For Contribution fork this repo and create a different branch and don't push directly to main </p>
-<style>
-    p{
-    font-weight: bold; color:green;
-    }
- </style>
 <table>
 <tr>
   

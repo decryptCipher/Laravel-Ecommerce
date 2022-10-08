@@ -12,7 +12,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<p align="center"> <h4>For Contribution fork this repo and create a different branch and don't push directly to main </h4></p>
+<p align="center"> For Contribution fork this repo and create a different branch and don't push directly to main </p>
 <table>
 <tr>
   
